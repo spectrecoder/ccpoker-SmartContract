@@ -18,7 +18,7 @@ describe("ZKShuffle Unit Test", function () {
   }
 
   it("Deploy Shuffle Manager", async () => {
-
+    
   });
 
 });
